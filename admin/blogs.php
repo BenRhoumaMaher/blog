@@ -148,6 +148,8 @@ $num = $smt->fetchAll(PDO::FETCH_OBJ);
 
                                 </tbody>
                             </table>
+                            <button class="popup-button"
+                                onclick="location.href='includes/download-blog.php'">Download</button>
                         </div>
                     </div>
                 </div>
